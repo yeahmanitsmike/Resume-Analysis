@@ -1,0 +1,65 @@
+
+Who We Are
+ 
+ampliFI provides fully outsourced, customized credit and debit card loyalty programs exclusively focused on banks and credit unions nationwide. For almost two decades, we have delivered compelling rewards programs, unique earn and burn opportunities and card-linked programs to leverage merchant funded offers. Here at ampliFI, we are always looking for more great people to be a part of the relentless pursuit of excellence in everything we do. Our core values are Integrity, Curiosity, and Advocacy for our clients. We are looking for a  Data Engineer (Level 1-Level 2). This role is a hybrid remote work arrangement in our corporate office located in Naperville, IL 60563. 
+ 
+What you will do
+As an Data Engineer, you are familiar with the data warehousing technical components, infrastructure, and their integration. You’ll analyze large amounts of data, discover and solve real world problems. You love the idea of being able to provide insight as well as presenting those insights. You are responsible for high level design/architecture. You are comfortable fostering relationships with internal business partners and other members of the development team.
+ 
+How you will Contribute
+
+    Design, develop, and maintain modular code base to solve “real” world problems.
+    Conduct regular peer code reviews to ensure code quality and compliance following best practices in the industry.
+    Work in cross-disciplinary teams to understand client needs and ingest rich data sources.
+    Research, experiment, and utilize leading Big Data technologies in AWS.
+    Help drive the process for pursuing innovations, target solutions, and extendable platforms for ampliFI’s products.
+    Participate in developing and presenting thought leadership and assist in ensuring that ampliFI’s “data source” technology stack incorporates and is optimized for using specific technologies.
+
+The Expertise you Bring
+
+    3+ years of professional work experience in Data Engineering using big data methodologies with multiple programming languages and technologies.
+    Experience working efficiently under Unix/Linux environment.
+    Experience with source code management systems like GIT.
+    Experience and demonstrated proficiency with Python, Pandas, Spark and Java
+    Bachelor of Science degree from an accredited college/university in Computer Science, Information Technology, Computer Engineering, or related field (i.e. math and physics) required. Master’s degree a plus.
+
+Competencies, Knowledge and Skills
+
+    Qualified individuals possess the ampliFI attributes of being smart, curious, committed to vision, passionate, fun/pleasant, an achiever and having a sense of urgency.
+    Ability to manage established relationships internally as well as with clients.
+    Ability to communicate complex technical concepts succinctly to non-technical colleagues, understand & manage interdependencies between all facets of a project.
+    Ability to interface with internal clients; Must have demonstrated advanced proficiency in complex, mature and sophisticated design & analysis technologies and solutions.
+    Skilled ability to rapidly ingest, transform, engineer, and visualize data, both for ad hoc and product-level (e.g., automated) data & analytics solutions.
+    Experience with large-scale, AWS big data methods such as EC2, S3, EMR, Kinesis, DynamoDB, Athena, AWS-Glue and Redshift.
+    Demonstrated strong knowledge of programming methodologies (Terraform, version control, testing, QA) and agile development methodologies.
+
+ 
+Physical Requirements
+
+    Frequently required to sit and stand.
+    Required to use hands to handle or feel objects, tools or controls.
+    Visual acuity and manual dexterity required to code using software and a laptop computer.
+
+ 
+Other Duties
+ 
+Duties, responsibilities and activities are not all encompassing and may change at any time with or without notice. To perform this job successfully, an individual must be able to perform each essential job duty satisfactorily.  Reasonable accommodations may be made to enable qualified individuals with disabilities to perform essential job functions
+ 
+What We Offer
+
+    Competitive salary
+    Medical, Dental, Vision Benefits
+    401(k) and 401(k) Employer Match
+    Employer Funded  Insurance, Short & Long Term Disability 
+    Voluntary Café plans for insurance including voluntary life , accident,  hospital, and critical care
+    Voluntary Café Plans including parking and transit
+    Flexible work hours in a hybrid environment.
+    Opportunities for professional development and growth.
+    Paid Time Off including holiday, vacation and personal time
+    Parental Leave
+    Employee Assistance Programs
+    Snacks and a Gym onsite
+
+ 
+The compensation range listed below represents the potential salary for this role at the time of posting. However, the final salary may be higher or lower than the stated range, and this range may be adjusted in the future. An employee’s placement within the salary range will depend on various factors, including but not limited to: relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any applicable collective bargaining agreements, and the needs of the business or organization. The salary range for this role is $85,000-$100,000. 
+ 

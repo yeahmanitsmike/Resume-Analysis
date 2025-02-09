@@ -1,0 +1,50 @@
+
+About the job
+
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Jobot, is seeking the following. Apply via Dice today!
+
+High Growth Opportunity / Excellent Benefits!
+
+This Jobot Job is hosted by: Lindsay Fitzpatrick
+
+Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.
+
+Salary: $95,000 - $150,000 per year
+
+A bit about us:
+
+Our client, a global firm, is seeking a Data Engineer to join its growing team - hybrid/onsite!
+
+Why join us?
+
+Responsibilities:
+
+     Develop, construct, test, and maintain architectures such as databases and large-scale processing systems.
+     Collaborate with data architects, data scientists, and business stakeholders to identify and execute on opportunities for data acquisition and new uses for existing data.
+     Develop set processes for data mining, data modeling, and data production.
+     Employ a variety of languages and tools to marry systems together.
+     Recommend ways to improve data reliability, efficiency, and quality.
+     Use Python to perform ETL (Extract, Transform, Load) processes and data manipulation.
+     Implement data tools for analytics and data scientist team members to assist them in building and optimizing our product into an innovative industry leader.
+     Work on data-oriented projects and ensure optimal data delivery architecture is consistent throughout ongoing projects.
+     Keep data secure by implementing and maintaining appropriate security measures.
+
+Job Details
+
+Qualifications:
+
+     Minimum 2 years of experience in a Data Engineer role, with a Graduate degree in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field preferred.
+     Minimum 2 years of experience implementing modern designs using at least one cloud based platform.
+     Advanced working knowledge and experience with Python and other scripting languages.
+     Experience with relational SQL and NoSQL databases.
+     Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+     Strong analytic skills related to working with unstructured datasets.
+     Experience supporting and working with cross-functional teams in a dynamic environment.
+     Strong communication skills, with the ability to present complex data in a clear and concise manner.
+     Strong understanding of the finance and accounting industry is a plus.
+     A successful history of manipulating, processing, and extracting value from large disconnected datasets.
+     Willingness to continually learn and develop new skills in line with the role.
+
+Apply today!
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.

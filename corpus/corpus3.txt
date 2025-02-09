@@ -1,0 +1,39 @@
+
+About the job
+
+We are looking for a Data Engineer to join one of the 100 Best Companies to Work For, with offices in the Chicagoland area and remote flexibility, on a full-time basis. This leading supplier of maintenance, repair, and operating products for businesses and a wide range of industries across the globe has a focus on sustainability, social responsibility, and community engagement, serving more than 4.5 million customers worldwide.
+
+As a Data Engineer, you will play a critical role in identifying, acquiring, and assembling the datasets needed for analytics professionals across functions to generate business insights and take fact-based actions. You will work independently to furnish an advantaged data warehouse, enabling team members to effectively execute their responsibilities for the betterment of the company and our customers.
+
+We encourage you to apply for this exciting opportunity and be part of a company that values sustainability, social responsibility, community engagement, innovation, and growth. Required Skills & Experience
+
+    Identify and prioritize data acquisition targets in partnership with analytics teams across the organization. 
+    Assemble large, complex sets of data that meet non-functional and functional requirements. 
+    Create repeatable data transformations and aggregations adhering to quality standards that make the resulting "single source of truth" datasets easy for analysts to find, understand, and utilize. 
+    Modify and enhance previously developed datasets in partnership with other functional areas as business conditions and strategies evolve. 
+    Support the proficient use of the cloud warehouse through clear onboarding procedures and governance protocols. 
+
+Desired Skills & Experience
+
+    Experience in SQL, Snowflake, Python, Docker, Airflow, CI/CD, DAGs, Dbt, Git / Bitbucket and data visualization software. 
+    Bachelor's degree or equivalent experience in Computer Science, Data Science, Engineering, or related disciplines. 
+    Hands-on experience with modern data engineering projects and practices 
+    Experience leading data integration efforts of internal and external data sources 
+    Experience partnering with internal departments to establish requirements 
+
+The Offer
+
+    Bonus eligible 
+
+You Will Receive The Following Benefits
+
+    Medical, dental, vision, and life insurance plans 
+    Paid time off (PTO) and 6 company holidays per year 
+    Automatic 6% 401(k) company contribution each pay period 
+    Employee discounts, parental leave, 3:1 match on donations and tuition reimbursement 
+    A comprehensive set of emotional, financial, physical and social wellbeing programs 
+
+Applicants must be currently authorized to work in the US on a full-time basis now and in the future.
+
+Posted By: Esteban Medina
+

@@ -1,0 +1,58 @@
+We’re reinventing the market research industry. Let’s reinvent it together.
+
+At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behavior and the influencers that drive it.
+
+Numerator is committed to fair and equitable pay practices and regularly runs market analysis to ensure we stay competitive. The hiring range is the estimated base salary for the role. Offers are based on a wide range of factors, including but not limited to: relevant skills, training, experience, and education. In addition to base pay and a comprehensive benefits package, other variable compensation, such as an annual bonus or commission is offered.
+
+Numerator is looking for a Data Engineer I to help us drive decision-making, find bigger opportunities, and work with our established and rapidly evolving platforms. In this position, you will be responsible for taking on new initiatives to automate, enhance, maintain, and scale services in a rapidly scaling environment.
+
+As a Data Engineer I at Numerator, you will help our team deliver data products, analytics, and models quickly and independently. The role is cross-functional and responsible for developing resilient data pipelines and infrastructure for evaluating and deploying data science models.
+
+The ideal candidate should be experienced with processing large quantities of data, building algorithms alongside software engineers, data warehouse and/or service architecture, and using declarative infrastructure and Kubernetes.
+
+You will have a broad impact and exposure across Numerator as you help build out and expand our technology platforms across several software products. This is a fast-paced role with high growth, visibility, and impact, and where many of the decisions for new projects will be driven by you and your team from inception through production.
+
+What you get to do:
+
+    Collaborate with Product, Analytics, Data Science, and Engineering teams to build or enhance data products while ensuring adherence to data quality standards
+    Lead complex, end-to-end projects focused on improving data quality and ensuring statistical models (e.g., sampling, segmentation, classification, predictive modeling) are supported by clean and validated data
+    Design and develop pipelines that enforce data validation, quality checks, and best practices for integrating Data Science models into customer-facing products
+
+What You'll Bring to Numerator
+
+    1+ years of experience designing data warehouses, building data pipelines, or working in data-intensive engineering roles with a strong focus on data quality
+    Proficiency in a major programming language (preferably Python) and SQL with experience in implementing data validation and transformation processes
+    Expertise in data modeling, ETL design (especially Airflow), and ensuring that data transformations meet business goals while maintaining integrity and quality
+    Familiarity with Machine Learning or Statistical Model Development processes and how data quality influences model performance
+    Experience designing and deploying cloud-based production solutions (AWS, Azure, or GCP), ensuring data quality is maintained across environments
+    Strong attention to detail, intellectual curiosity, and a commitment to delivering high-quality data in a fast-paced, collaborative environment
+
+Nice to Haves:
+
+    Familiarity with Amazon Web Services (EC2, RDS, ECS).
+    Experience with Terraform and/or Ansible (or similar) for infrastructure deployment
+    Familiarity with Airflow -- building and monitoring DAGs and developing custom operators
+    Familiarity with Snowflake, Databricks, or another data warehouse.
+    Exposure to containerized services (Docker/Kubernetes)
+    Experience working with marketing insights, shopping data, or in the retail industry
+
+What we offer:
+
+    An inclusive and collaborative company culture, we work in an open environment to get things done and adapt to the changing needs as they come.
+    Market competitive total compensation package.
+    Volunteer time off and charitable donation matching.
+    Regular hackathons to build your projects and work with people across the entire company
+    Strong support for career growth, including mentorship programs, leadership training, access to conferences, and employee resource groups. 
+    Great benefits package including health/vision/dental, exceptional maternity leave coverage, unlimited PTO, flexible schedule, 401K matching, travel reimbursement, and more.
+
+If this sounds like something you would like to be part of, we'd love for you to apply! Don't worry if you think that you don't meet all the qualifications here. The tools, technology, and methodologies we use are constantly changing and we value talent and interest over specific experience. 
+
+There is strength in numbers - We are the Numerati
+
+Numerator is 2,000 employees strong. We have the confidence to be real and embrace what makes each Numerati unique. Our diverse experiences, ideas and backgrounds fuel our innovation.
+
+Being part of the Numerati means that we’ll take care of you! From our Recharge Days, maximum flexibility policy, wellness resources for employees and their families, development opportunities and much more — we’re always finding ways to better support, celebrate and accelerate our team.
+
+We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by the law.
+
+While some roles can be remote, Numerator is only able to hire in many, but not all, states and provinces. In certain cases, if you are not located in a specific area where Numerator is able to hire, you may not be eligible for employment.
