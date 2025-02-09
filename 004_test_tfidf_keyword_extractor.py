@@ -36,7 +36,7 @@ def train_tfidf_vectorizer(corpus):
     vectorizer.fit(corpus)
     return vectorizer
 
-def extract_keywords_tfidf(new_job_description, vectorizer, num_keywords=20):
+def extract_keywords_tfidf(new_job_description, vectorizer, num_keywords=40):
     """
     Extract keywords from a new job description using a pre-trained TF-IDF vectorizer.
     
@@ -85,7 +85,7 @@ if __name__ == '__main__':
         exit(1)
 
     # Extract and print the top keywords from the new job description.
-    keywords = extract_keywords_tfidf(new_job_description, vectorizer, num_keywords=20)
+    keywords = extract_keywords_tfidf(new_job_description, vectorizer, num_keywords=30)
 
     print("Top keywords from the job description (TF-IDF):")
     for word, score in keywords:
